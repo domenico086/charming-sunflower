@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Privacy and Cookie Policy
 subtitle: lorem-ipsum
 seo:
   title: ''
